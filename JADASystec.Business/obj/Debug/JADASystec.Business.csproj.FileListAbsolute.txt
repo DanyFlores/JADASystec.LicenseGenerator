@@ -1,0 +1,6 @@
+C:\Users\Flavio Cesar\Documents\Visual Studio 2019\JADA Projects\JADASystec.LicenseGenerator\JADASystec.Business\bin\Debug\JADASystec.Business.dll
+C:\Users\Flavio Cesar\Documents\Visual Studio 2019\JADA Projects\JADASystec.LicenseGenerator\JADASystec.Business\bin\Debug\JADASystec.Business.pdb
+C:\Users\Flavio Cesar\Documents\Visual Studio 2019\JADA Projects\JADASystec.LicenseGenerator\JADASystec.Business\obj\Debug\JADASystec.Business.csprojAssemblyReference.cache
+C:\Users\Flavio Cesar\Documents\Visual Studio 2019\JADA Projects\JADASystec.LicenseGenerator\JADASystec.Business\obj\Debug\JADASystec.Business.csproj.CoreCompileInputs.cache
+C:\Users\Flavio Cesar\Documents\Visual Studio 2019\JADA Projects\JADASystec.LicenseGenerator\JADASystec.Business\obj\Debug\JADASystec.Business.dll
+C:\Users\Flavio Cesar\Documents\Visual Studio 2019\JADA Projects\JADASystec.LicenseGenerator\JADASystec.Business\obj\Debug\JADASystec.Business.pdb
